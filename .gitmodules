@@ -1,0 +1,9 @@
+[submodule "external/libevent"]
+	path = external/libevent
+	url = https://github.com/libevent/libevent.git
+[submodule "external/ubiq-c-cpp"]
+	path = external/ubiq-c-cpp
+	url = https://gitlab.com/ubiqsecurity/ubiq-c-cpp.git
+[submodule "external/rapidjson"]
+	path = external/rapidjson
+	url = https://github.com/Tencent/rapidjson
